@@ -10,7 +10,7 @@ Atualmente desenvolvo **projetos práticos**, versionados no GitHub, aplicando c
 ## 👨‍🎓 Formação Acadêmica & Certificações
 
 - 🎓 **Engenharia de Software** — Anhanguera *(em andamento)*
-- 💻 **Programa ONE – Oracle Next Education (Oracle + Alura)*
+- 💻 **Programa ONE – Oracle Next Education** *(Oracle + Alura)*
 - ☁️ **Oracle Cloud Infrastructure – Foundations Certified (2025)**
 
 ---
