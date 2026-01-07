@@ -72,7 +72,7 @@ em colaboração com um **time de 11 participantes**, envolvendo profissionais d
 - Versionamento com Git/GitHub
 
 🔗 **Repositório:**  
-👉 https://github.com/Orion1914/sentiment-api
+👉 https://github.com/Hackathon-ONE-II/SentimentAPI/blob/main/README.md
 
 ---
 
