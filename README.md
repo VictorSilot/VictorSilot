@@ -49,6 +49,14 @@ Possuo uma trajetória profissional diversa (contabilidade, vendas e indústria)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 </p>
 
+### 🔹 Modelagem & Arquitetura
+
+<p align="left">
+   <text x="64" y="75" font-size="45" text-anchor="middle" fill="white" font-family="Arial" font-weight="bold">
+      📐 UML (Unified Modeling Language)
+    </text>
+</p>
+  
 ---
 
 ## 📂 Projeto em Destaque
@@ -101,21 +109,6 @@ Atuação em ambiente industrial, desenvolvendo competências como:
 - Organização e gestão do tempo  
 - Aprendizado rápido  
 - Adaptabilidade  
-
----
-
-## ⚡ GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/Orion1914">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Orion1914&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orion1914&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Orion1914&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
-</p>
 
 ---
 
